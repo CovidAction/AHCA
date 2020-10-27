@@ -1,0 +1,237 @@
+County,Measure Names,Measure Values
+ALACHUA,Bed Census,"1,443"
+ALACHUA,Available,258
+ALACHUA,Available Capacity,0.151675485
+ALACHUA,Total Staffed Bed Capacity,"1,701"
+BAKER,Bed Census,474
+BAKER,Available,151
+BAKER,Available Capacity,0.2416
+BAKER,Total Staffed Bed Capacity,625
+BAY,Bed Census,468
+BAY,Available,89
+BAY,Available Capacity,0.159784560
+BAY,Total Staffed Bed Capacity,557
+BRADFORD,Bed Census,5
+BRADFORD,Available,5
+BRADFORD,Available Capacity,0.5
+BRADFORD,Total Staffed Bed Capacity,10
+BREVARD,Bed Census,"1,187"
+BREVARD,Available,424
+BREVARD,Available Capacity,0.263190565
+BREVARD,Total Staffed Bed Capacity,"1,611"
+BROWARD,Bed Census,"4,095"
+BROWARD,Available,"1,114"
+BROWARD,Available Capacity,0.213860626
+BROWARD,Total Staffed Bed Capacity,"5,209"
+CALHOUN,Bed Census,5
+CALHOUN,Available,5
+CALHOUN,Available Capacity,0.5
+CALHOUN,Total Staffed Bed Capacity,10
+CHARLOTTE,Bed Census,442
+CHARLOTTE,Available,178
+CHARLOTTE,Available Capacity,0.287096774
+CHARLOTTE,Total Staffed Bed Capacity,620
+CITRUS,Bed Census,221
+CITRUS,Available,96
+CITRUS,Available Capacity,0.302839117
+CITRUS,Total Staffed Bed Capacity,317
+CLAY,Bed Census,494
+CLAY,Available,73
+CLAY,Available Capacity,0.128747795
+CLAY,Total Staffed Bed Capacity,567
+COLLIER,Bed Census,679
+COLLIER,Available,180
+COLLIER,Available Capacity,0.209545984
+COLLIER,Total Staffed Bed Capacity,859
+COLUMBIA,Bed Census,101
+COLUMBIA,Available,0
+COLUMBIA,Available Capacity,0
+COLUMBIA,Total Staffed Bed Capacity,101
+DESOTO,Bed Census,19
+DESOTO,Available,36
+DESOTO,Available Capacity,0.654545455
+DESOTO,Total Staffed Bed Capacity,55
+DUVAL,Bed Census,"2,768"
+DUVAL,Available,989
+DUVAL,Available Capacity,0.263241948
+DUVAL,Total Staffed Bed Capacity,"3,757"
+ESCAMBIA,Bed Census,"1,059"
+ESCAMBIA,Available,397
+ESCAMBIA,Available Capacity,0.272664835
+ESCAMBIA,Total Staffed Bed Capacity,"1,456"
+FLAGLER,Bed Census,84
+FLAGLER,Available,15
+FLAGLER,Available Capacity,0.151515152
+FLAGLER,Total Staffed Bed Capacity,99
+FRANKLIN,Bed Census,0
+FRANKLIN,Available,15
+FRANKLIN,Available Capacity,1
+FRANKLIN,Total Staffed Bed Capacity,15
+GADSDEN,Bed Census,678
+GADSDEN,Available,275
+GADSDEN,Available Capacity,0.288562434
+GADSDEN,Total Staffed Bed Capacity,953
+GULF,Bed Census,7
+GULF,Available,14
+GULF,Available Capacity,0.666666667
+GULF,Total Staffed Bed Capacity,21
+HARDEE,Bed Census,25
+HARDEE,Available,0
+HARDEE,Available Capacity,0
+HARDEE,Total Staffed Bed Capacity,25
+HENDRY,Bed Census,9
+HENDRY,Available,20
+HENDRY,Available Capacity,0.689655172
+HENDRY,Total Staffed Bed Capacity,29
+HERNANDO,Bed Census,531
+HERNANDO,Available,194
+HERNANDO,Available Capacity,0.267586207
+HERNANDO,Total Staffed Bed Capacity,725
+HIGHLANDS,Bed Census,188
+HIGHLANDS,Available,65
+HIGHLANDS,Available Capacity,0.256916996
+HIGHLANDS,Total Staffed Bed Capacity,253
+HILLSBOROUGH,Bed Census,"3,322"
+HILLSBOROUGH,Available,491
+HILLSBOROUGH,Available Capacity,0.128769997
+HILLSBOROUGH,Total Staffed Bed Capacity,"3,813"
+HOLMES,Bed Census,12
+HOLMES,Available,8
+HOLMES,Available Capacity,0.4
+HOLMES,Total Staffed Bed Capacity,20
+INDIAN RIVER,Bed Census,304
+INDIAN RIVER,Available,142
+INDIAN RIVER,Available Capacity,0.318385650
+INDIAN RIVER,Total Staffed Bed Capacity,446
+JACKSON,Bed Census,37
+JACKSON,Available,51
+JACKSON,Available Capacity,0.579545455
+JACKSON,Total Staffed Bed Capacity,88
+LAKE,Bed Census,650
+LAKE,Available,244
+LAKE,Available Capacity,0.272930649
+LAKE,Total Staffed Bed Capacity,894
+LEE,Bed Census,"1,447"
+LEE,Available,400
+LEE,Available Capacity,0.216567407
+LEE,Total Staffed Bed Capacity,"1,847"
+LEON,Bed Census,690
+LEON,Available,173
+LEON,Available Capacity,0.200463499
+LEON,Total Staffed Bed Capacity,863
+MADISON,Bed Census,7
+MADISON,Available,8
+MADISON,Available Capacity,0.533333333
+MADISON,Total Staffed Bed Capacity,15
+MANATEE,Bed Census,654
+MANATEE,Available,108
+MANATEE,Available Capacity,0.141732283
+MANATEE,Total Staffed Bed Capacity,762
+MARION,Bed Census,788
+MARION,Available,107
+MARION,Available Capacity,0.119553073
+MARION,Total Staffed Bed Capacity,895
+MARTIN,Bed Census,247
+MARTIN,Available,259
+MARTIN,Available Capacity,0.511857708
+MARTIN,Total Staffed Bed Capacity,506
+MIAMI-DADE,Bed Census,"6,119"
+MIAMI-DADE,Available,"2,414"
+MIAMI-DADE,Available Capacity,0.282901676
+MIAMI-DADE,Total Staffed Bed Capacity,"8,533"
+MONROE,Bed Census,79
+MONROE,Available,86
+MONROE,Available Capacity,0.521212121
+MONROE,Total Staffed Bed Capacity,165
+NASSAU,Bed Census,30
+NASSAU,Available,38
+NASSAU,Available Capacity,0.558823529
+NASSAU,Total Staffed Bed Capacity,68
+OKALOOSA,Bed Census,358
+OKALOOSA,Available,88
+OKALOOSA,Available Capacity,0.197309417
+OKALOOSA,Total Staffed Bed Capacity,446
+OKEECHOBEE,Bed Census,62
+OKEECHOBEE,Available,34
+OKEECHOBEE,Available Capacity,0.354166667
+OKEECHOBEE,Total Staffed Bed Capacity,96
+ORANGE,Bed Census,"3,312"
+ORANGE,Available,"1,147"
+ORANGE,Available Capacity,0.257232563
+ORANGE,Total Staffed Bed Capacity,"4,459"
+OSCEOLA,Bed Census,897
+OSCEOLA,Available,244
+OSCEOLA,Available Capacity,0.213847502
+OSCEOLA,Total Staffed Bed Capacity,"1,141"
+PALM BEACH,Bed Census,"2,828"
+PALM BEACH,Available,"1,176"
+PALM BEACH,Available Capacity,0.293706294
+PALM BEACH,Total Staffed Bed Capacity,"4,004"
+PASCO,Bed Census,"1,162"
+PASCO,Available,184
+PASCO,Available Capacity,0.136701337
+PASCO,Total Staffed Bed Capacity,"1,346"
+PINELLAS,Bed Census,"2,463"
+PINELLAS,Available,"1,174"
+PINELLAS,Available Capacity,0.322793511
+PINELLAS,Total Staffed Bed Capacity,"3,637"
+POLK,Bed Census,"1,380"
+POLK,Available,293
+POLK,Available Capacity,0.175134489
+POLK,Total Staffed Bed Capacity,"1,673"
+PUTNAM,Bed Census,45
+PUTNAM,Available,39
+PUTNAM,Available Capacity,0.464285714
+PUTNAM,Total Staffed Bed Capacity,84
+SANTA ROSA,Bed Census,134
+SANTA ROSA,Available,219
+SANTA ROSA,Available Capacity,0.620396601
+SANTA ROSA,Total Staffed Bed Capacity,353
+SARASOTA,Bed Census,998
+SARASOTA,Available,249
+SARASOTA,Available Capacity,0.199679230
+SARASOTA,Total Staffed Bed Capacity,"1,247"
+SEMINOLE,Bed Census,692
+SEMINOLE,Available,252
+SEMINOLE,Available Capacity,0.266949153
+SEMINOLE,Total Staffed Bed Capacity,944
+ST. JOHNS,Bed Census,208
+ST. JOHNS,Available,132
+ST. JOHNS,Available Capacity,0.388235294
+ST. JOHNS,Total Staffed Bed Capacity,340
+ST. LUCIE,Bed Census,730
+ST. LUCIE,Available,144
+ST. LUCIE,Available Capacity,0.164759725
+ST. LUCIE,Total Staffed Bed Capacity,874
+SUMTER,Bed Census,256
+SUMTER,Available,91
+SUMTER,Available Capacity,0.262247839
+SUMTER,Total Staffed Bed Capacity,347
+SUWANNEE,Bed Census,0
+SUWANNEE,Available,0
+SUWANNEE,Available Capacity,
+SUWANNEE,Total Staffed Bed Capacity,0
+TAYLOR,Bed Census,7
+TAYLOR,Available,5
+TAYLOR,Available Capacity,0.416666667
+TAYLOR,Total Staffed Bed Capacity,12
+UNION,Bed Census,59
+UNION,Available,29
+UNION,Available Capacity,0.329545455
+UNION,Total Staffed Bed Capacity,88
+VOLUSIA,Bed Census,"1,102"
+VOLUSIA,Available,460
+VOLUSIA,Available Capacity,0.294494238
+VOLUSIA,Total Staffed Bed Capacity,"1,562"
+WALTON,Bed Census,66
+WALTON,Available,51
+WALTON,Available Capacity,0.435897436
+WALTON,Total Staffed Bed Capacity,117
+WASHINGTON,Bed Census,44
+WASHINGTON,Available,15
+WASHINGTON,Available Capacity,0.254237288
+WASHINGTON,Total Staffed Bed Capacity,59
+All,Bed Census,"46,171"
+All,Available,"15,148"
+All,Available Capacity,0.247035992
+All,Total Staffed Bed Capacity,"61,319"
